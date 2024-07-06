@@ -1,4 +1,6 @@
-# Facebook
+# Whatsapp
+# Extracted from AdGuardHome
+# https://github.com/AdguardTeam/AdGuardHome/raw/master/internal/filtering/servicelist.go
 
 ||wa.me^
 ||whatsapp-plus.info^
