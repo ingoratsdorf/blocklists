@@ -2,7 +2,7 @@
 # Extracted from AdGuardHome
 # https://github.com/AdguardTeam/AdGuardHome/raw/master/internal/filtering/servicelist.go
 
-|fbcdn-a.akamaihd.net^
+||fbcdn-a.akamaihd.net^
 ||aboutfacebook.com^
 ||accessfacebookfromschool.com^
 ||accountkit.com^
