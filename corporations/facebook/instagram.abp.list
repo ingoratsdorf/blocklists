@@ -1,4 +1,6 @@
 # Instagram
+# Extracted from AdGuardHome
+# https://github.com/AdguardTeam/AdGuardHome/raw/master/internal/filtering/servicelist.go
 
 ||achat-followers-instagram.com^
 ||acheter-followers-instagram.com^

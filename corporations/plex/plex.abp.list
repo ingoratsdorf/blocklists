@@ -1,0 +1,8 @@
+# Plex Media Server
+# Extracted from AdGuardHome
+# https://github.com/AdguardTeam/AdGuardHome/raw/master/internal/filtering/servicelist.go
+
+||plex.bz^
+||plex.direct^
+||plex.tv^
+||plexapp.com^
